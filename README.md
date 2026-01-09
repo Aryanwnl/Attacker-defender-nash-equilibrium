@@ -76,5 +76,9 @@ It is shared here for **portfolio and learning purposes only**.
 Please do not submit or reuse this work for academic credit.
 
 ---
+## License
 
+This project is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+
+---
 © Aryan Dalvi
